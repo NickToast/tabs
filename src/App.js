@@ -15,10 +15,6 @@ function App() {
     setSelectedTab(tab);
   }
 
-
-
-
-
   return (
     <>
       <div>

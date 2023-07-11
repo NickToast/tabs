@@ -5,8 +5,7 @@ const Tabs = (props) => {
     const {name, index, selectedTab, active} = props
 
     const tabStyle = {
-        borderStyle: "solid",
-        borderColor: "black",
+        border: "solid black 1px",
         width: "100px",
         height: "40px",
         margin: "10px",
